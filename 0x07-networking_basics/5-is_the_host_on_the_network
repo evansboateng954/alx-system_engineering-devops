@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+#ping a host with ip stored in $1
+ping -c 5 $1
